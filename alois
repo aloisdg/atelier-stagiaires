@@ -1,0 +1,16 @@
+<p style="color: red">
+je m'appelle Alois</sup>
+</p>
+
+<p style="color: green">
+Je travaille à D-EDGE. J'aime les jeux vidéo.
+</p>
+
+<img style="width: 200px" src="https://c.tenor.com/xycbkZviPPwAAAAd/tenor.gif" />
+
+<button onclick="alert('toto')" style="width: 200px; color: blue">
+pouet
+</button>
+
+<a href="https://www.google.com">lien vers Google</a>
+<a href="mailto:adegouvello@d-edge.com">contactez moi</a>
